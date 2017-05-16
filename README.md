@@ -11,4 +11,7 @@
 
 4. ```npm install```
 6. ```run gulp``` 
-
+7. Установил gulp-copy https://www.npmjs.com/package/gulp-copy  копирование файлов из папки с исходниками в папку для
+                                                                продакшена (картинки, шрифты).
+8. Установил gulp-spritesmith https://www.npmjs.com/package/gulp.spritesmith  генерация спрайтов из графических файлов (png, gif). 
+9. Добавил таски в папку с тасками, еще инициализировал ээти таски в gulpfile.js и tasks.js .
